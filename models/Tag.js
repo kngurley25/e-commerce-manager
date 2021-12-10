@@ -1,4 +1,3 @@
-const database = require('mime-db');
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection.js');
